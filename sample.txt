@@ -1,1 +1,2 @@
-This is a simple calculator web application developed using html, css and javascript
+This is a simple calculator web application developed using html, css and javascript.
+This web application performs the simple calculator operations.
